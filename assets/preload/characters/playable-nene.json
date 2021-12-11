@@ -1,0 +1,201 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				83,
+				-76
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			],
+			"name": "Dad idle dance"
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Dad Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				0,
+				27
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "Dad Sing Note RIGHT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				-100
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "WhatYouKnowAboutRollingDownInTheDeep",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				79,
+				-40
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "sky annoyed up",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			]
+		},
+		{
+			"offsets": [
+				98,
+				-153
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Pico Idle Dance"
+		},
+		{
+			"offsets": [
+				168,
+				-228
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"name": "Pico Down Note"
+		},
+		{
+			"offsets": [
+				55,
+				-124
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"name": "pico Up note"
+		},
+		{
+			"offsets": [
+				97,
+				-159
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": true,
+			"name": "PICO NOTE LEFT"
+		},
+		{
+			"offsets": [
+				87,
+				-151
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": true,
+			"name": "Pico Note Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/nene",
+	"position": [
+		-30,
+		170
+	],
+	"healthicon": "nene",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		210
+	],
+	"camera_position": [
+		230,
+		190
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,201 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				83,
+				-76
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Dad idle dance",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note LEFT",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				27
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note RIGHT",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			]
+		},
+		{
+			"offsets": [
+				140,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "WhatYouKnowAboutRollingDownInTheDeep"
+		},
+		{
+			"offsets": [
+				79,
+				-40
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			],
+			"name": "sky annoyed up"
+		},
+		{
+			"offsets": [
+				98,
+				-153
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Mom Idle"
+		},
+		{
+			"offsets": [
+				188,
+				-318
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": true,
+			"name": "MOM DOWN POSE"
+		},
+		{
+			"offsets": [
+				135,
+				-104
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": true,
+			"name": "Mom Up Pose"
+		},
+		{
+			"offsets": [
+				247,
+				-219
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": true,
+			"name": "Mom Pose Left"
+		},
+		{
+			"offsets": [
+				80,
+				-184
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": true,
+			"name": "Mom Left Pose"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/cassandra",
+	"position": [
+		140,
+		-60
+	],
+	"healthicon": "cassandra",
+	"flip_x": false,
+	"healthbar_colors": [
+		235,
+		0,
+		0
+	],
+	"camera_position": [
+		280,
+		330
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

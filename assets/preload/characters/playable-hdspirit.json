@@ -1,0 +1,153 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				83,
+				-76
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Dad idle dance",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note LEFT",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				27
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note RIGHT",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			]
+		},
+		{
+			"offsets": [
+				140,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "WhatYouKnowAboutRollingDownInTheDeep"
+		},
+		{
+			"offsets": [
+				79,
+				-40
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			],
+			"name": "sky annoyed up"
+		},
+		{
+			"offsets": [
+				90,
+				-139
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "garcello idle dance"
+		},
+		{
+			"offsets": [
+				100,
+				-136
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": true,
+			"name": "garcello Sing Note UP"
+		},
+		{
+			"offsets": [
+				85,
+				-173
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": true,
+			"name": "garcello Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				106,
+				-161
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": true,
+			"name": "garcello Sing Note RIGHT"
+		},
+		{
+			"offsets": [
+				79,
+				-162
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": true,
+			"name": "garcello Sing Note LEFT"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/hdspirit",
+	"position": [
+		-30,
+		-160
+	],
+	"healthicon": "hdspirit",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		100
+	],
+	"camera_position": [
+		-30,
+		120
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

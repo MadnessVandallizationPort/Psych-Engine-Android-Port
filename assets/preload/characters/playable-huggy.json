@@ -1,0 +1,153 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				83,
+				-76
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Dad idle dance",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note LEFT",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				27
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note RIGHT",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			]
+		},
+		{
+			"offsets": [
+				140,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "WhatYouKnowAboutRollingDownInTheDeep"
+		},
+		{
+			"offsets": [
+				79,
+				-40
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			],
+			"name": "sky annoyed up"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				55,
+				-108
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "huggyidle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				130,
+				-508
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "huggydown",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				111,
+				-97
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "huggyup",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				4,
+				-164
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "huggyleft",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				297,
+				-134
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "huggyright",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/huggy",
+	"position": [
+		-30,
+		-270
+	],
+	"healthicon": "huggy",
+	"flip_x": false,
+	"healthbar_colors": [
+		40,
+		0,
+		160
+	],
+	"camera_position": [
+		270,
+		120
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

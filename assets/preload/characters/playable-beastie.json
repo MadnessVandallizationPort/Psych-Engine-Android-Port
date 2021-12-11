@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Pico Idle Dance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-19,
+				12
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "pico Up note0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				60,
+				-76
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Pico Down Note0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				45,
+				-21
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Pico NOTE LEFT0"
+		},
+		{
+			"offsets": [
+				-58,
+				-7
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Pico Note Right0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/beastie",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "beastie",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		40,
+		40
+	],
+	"camera_position": [
+		280,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

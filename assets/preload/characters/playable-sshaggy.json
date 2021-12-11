@@ -1,0 +1,194 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				83,
+				-76
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			],
+			"name": "Dad idle dance"
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Dad Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				0,
+				27
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "Dad Sing Note RIGHT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				-100
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "WhatYouKnowAboutRollingDownInTheDeep",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				79,
+				-40
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "sky annoyed up",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				98,
+				-153
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "shaggy_super_idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				199,
+				-330
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "shaggy_sdown",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				227,
+				-195
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "shaggy_sright",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				19,
+				-274
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "shaggy_sleft",
+			"indices": []
+		},
+		{
+			"offsets": [
+				68,
+				-129
+			],
+			"indices": [
+				20000,
+				20001,
+				20002,
+				20003,
+				20004,
+				20005,
+				20006,
+				20007,
+				20008,
+				20009,
+				20010,
+				20011,
+				20012,
+				20013,
+				20014,
+				20015,
+				20016,
+				20017,
+				20018,
+				20019,
+				20020,
+				20021,
+				20022,
+				20023,
+				20024,
+				20025,
+				20026,
+				20027,
+				20028,
+				20029,
+				20030,
+				20031,
+				20032,
+				20033,
+				20034,
+				20035,
+				20036,
+				20037,
+				20038,
+				20039
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": true,
+			"name": "shaggy_sup"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/shaggy",
+	"position": [
+		60,
+		-160
+	],
+	"healthicon": "sshaggy",
+	"flip_x": false,
+	"healthbar_colors": [
+		40,
+		100,
+		40
+	],
+	"camera_position": [
+		340,
+		200
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

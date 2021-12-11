@@ -1,0 +1,153 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				140,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "WhatYouKnowAboutRollingDownInTheDeep"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				-9,
+				-3
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Sing Left"
+		},
+		{
+			"offsets": [
+				0,
+				33
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "Sing Right"
+		},
+		{
+			"offsets": [
+				-6,
+				47
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			],
+			"name": "Sing Up"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-94,
+				-118
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Dad Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-87,
+				-4
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Dad idle dance",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-79,
+				58
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Dad Sing Note UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				141,
+				16
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Dad Sing Note RIGHT"
+		},
+		{
+			"offsets": [
+				-105,
+				-31
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Dad Sing Note LEFT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tabi",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "tabi",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		195,
+		135
+	],
+	"camera_position": [
+		150,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
