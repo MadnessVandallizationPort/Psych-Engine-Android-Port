@@ -1,0 +1,153 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				83,
+				-76
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			],
+			"name": "Dad idle dance"
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Dad Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				0,
+				27
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "Dad Sing Note RIGHT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				-100
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "WhatYouKnowAboutRollingDownInTheDeep",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				79,
+				-40
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "sky annoyed up",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			]
+		},
+		{
+			"offsets": [
+				55,
+				-78
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "demo idle"
+		},
+		{
+			"offsets": [
+				56,
+				-71
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": true,
+			"name": "demo up"
+		},
+		{
+			"offsets": [
+				62,
+				-80
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": true,
+			"name": "demo down"
+		},
+		{
+			"offsets": [
+				142,
+				-85
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": true,
+			"name": "demo left"
+		},
+		{
+			"offsets": [
+				54,
+				-83
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": true,
+			"name": "demo right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/demoman",
+	"position": [
+		0,
+		10
+	],
+	"healthicon": "demoman",
+	"flip_x": false,
+	"healthbar_colors": [
+		80,
+		60,
+		60
+	],
+	"camera_position": [
+		90,
+		200
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

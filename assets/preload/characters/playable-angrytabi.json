@@ -1,0 +1,153 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				-100
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "WhatYouKnowAboutRollingDownInTheDeep",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Idle",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				-3
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Sing Left",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				33
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Sing Right",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				47
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Sing Up",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			]
+		},
+		{
+			"offsets": [
+				-135,
+				-4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "MadTabiIdle"
+		},
+		{
+			"offsets": [
+				-95,
+				-68
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": true,
+			"name": "MadTabiDown"
+		},
+		{
+			"offsets": [
+				-159,
+				88
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": true,
+			"name": "MadTabiUp"
+		},
+		{
+			"offsets": [
+				-210,
+				-2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": true,
+			"name": "MadTabiLeft"
+		},
+		{
+			"offsets": [
+				139,
+				-22
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": true,
+			"name": "MadTabiRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/angrytabi",
+	"position": [
+		-200,
+		50
+	],
+	"healthicon": "angrytabi",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		175,
+		115
+	],
+	"camera_position": [
+		-80,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

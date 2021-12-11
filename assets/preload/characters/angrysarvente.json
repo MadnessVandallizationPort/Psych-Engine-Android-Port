@@ -1,0 +1,227 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				83,
+				-76
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			],
+			"name": "Dad idle dance"
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Dad Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				0,
+				27
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "Dad Sing Note RIGHT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				-100
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "WhatYouKnowAboutRollingDownInTheDeep",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				79,
+				-40
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "sky annoyed up",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			]
+		},
+		{
+			"offsets": [
+				130,
+				-72
+			],
+			"indices": [
+				20000,
+				20001,
+				20002,
+				20003,
+				20004,
+				20005,
+				20006,
+				20007,
+				20008,
+				20009,
+				20010,
+				20011,
+				20012,
+				20013,
+				20014
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": true,
+			"name": "SarvDarkLeft"
+		},
+		{
+			"offsets": [
+				-17,
+				-69
+			],
+			"indices": [
+				20000,
+				20001,
+				20002,
+				20003,
+				20004,
+				20005,
+				20006,
+				20007,
+				20008,
+				20009,
+				20010,
+				20011,
+				20012,
+				20013,
+				20014,
+				20015,
+				20016,
+				20017,
+				20018,
+				20019
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": true,
+			"name": "SarvDarkUp"
+		},
+		{
+			"offsets": [
+				34,
+				-78
+			],
+			"indices": [
+				20000,
+				20001,
+				20002,
+				20003,
+				20004,
+				20005,
+				20006,
+				20007,
+				20008,
+				20009,
+				20010,
+				20011,
+				20012,
+				20013,
+				20014
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": true,
+			"name": "SarvDarkDown"
+		},
+		{
+			"offsets": [
+				-4,
+				-71
+			],
+			"indices": [
+				20000,
+				20001,
+				20002,
+				20003,
+				20004,
+				20005,
+				20006,
+				20007,
+				20008,
+				20009,
+				20010,
+				20011,
+				20012,
+				20013,
+				20014,
+				20015,
+				20016,
+				20017,
+				20018,
+				20019
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": true,
+			"name": "SarvDarkRight"
+		},
+		{
+			"offsets": [
+				55,
+				-78
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "SarvDarkIdle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sarvente",
+	"position": [
+		-30,
+		-140
+	],
+	"healthicon": "sarvente",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		135,
+		175
+	],
+	"camera_position": [
+		40,
+		120
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
